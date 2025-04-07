@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917419268051",
+    "firebase_url": "https://bereal-workout-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bereal-workout",
+    "storage_bucket": "bereal-workout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917419268051:android:0adfab89971c64d0258126",
+        "android_client_info": {
+          "package_name": "com.fitreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917419268051-m6nc8tarr17a1brbg37cgvkoafpe6l2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitreal",
+            "certificate_hash": "e08e48b21472ee9adffb8a3cedb8dd58144eb5e9"
+          }
+        },
+        {
+          "client_id": "917419268051-8n07a4unduifibaavkmebjtqufb6pfjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZ9qL3wXtk1Tkfj5FD80Ctw_qJovjxIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917419268051-8n07a4unduifibaavkmebjtqufb6pfjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
